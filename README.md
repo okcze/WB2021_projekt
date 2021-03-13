@@ -3,4 +3,6 @@
 ### Zmienne do PD3
 - CAREGIVER: label
 - ADMISSIONS: -
-- 
+- ICUSTAYS: outtime - intime
+- MICROBIOLOGYEVENTS: interpretation, ab_itemid
+- DRGCODES - drg_code
